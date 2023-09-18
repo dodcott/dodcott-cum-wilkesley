@@ -7,23 +7,23 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dodcott.org/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2014/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2015/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2016/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2017/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2018/</loc>
@@ -42,12 +42,20 @@
   <lastmod>2023-09-18T13:35:00Z</lastmod>
  </url>
  <url>
+  <loc>http://dodcott.org/2022/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/2023/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/accounts/</loc>
@@ -55,15 +63,15 @@
  </url>
  <url>
   <loc>http://dodcott.org/categories/affordablehousing/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/agm/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/cat_parishcouncil-agm/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/github/</loc>
@@ -71,19 +79,19 @@
  </url>
  <url>
   <loc>http://dodcott.org/categories/news/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/parishcouncil/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/transparency/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/goldsmith_signpost/</loc>
@@ -95,39 +103,43 @@
  </url>
  <url>
   <loc>http://dodcott.org/galleries/www1_memorial_ceremony/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-3.html</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-4.html</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-5.html</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index-6.html</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/about/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/contact/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/contributing/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/meetings/minutes-agendas/</loc>
@@ -143,107 +155,107 @@
  </url>
  <url>
   <loc>http://dodcott.org/pages/parish_council/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/superfast_broadband/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/transparency/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-01-01-happy-new-year/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-01-07-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-03-10-parish-council-meeting./</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-05-12-annual-parish-meeting-and-agm./</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-07-14-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-08-04-world-war-one-remembrance-ceremony./</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-08-11-parish-council-egm/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-09-01-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-09-04-war-memorial-renovation./</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-11-07-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-01-02-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-03-02-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-05-11-parish-council-annual-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-09-06-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-11-09-affordable-housing/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2016-03-07-affordable-housing/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2016-03-07-parishcouncil-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2016-11-14-affordable-housing/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-01-09-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-03-13-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-05-08-parish-council-agm/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-05-21-transparency/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-06-10-parish-council-meeting/</loc>
-  <lastmod>2023-09-18T13:35:00Z</lastmod>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-11-08-moved-to-github/</loc>
@@ -368,5 +380,65 @@
  <url>
   <loc>http://dodcott.org/posts/2021-05-04-meeting/</loc>
   <lastmod>2023-09-18T13:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2021-07-12-accounts/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2021-07-12-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2021-09-30-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2021-11-01-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2021-12-01-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2022-01-01-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2022-03-14-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2022-06-20-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2022-07-01-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2022-09-10-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2022-11-06-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-03-01-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-03-11-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-07-01-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-07-09-meeting/</loc>
+  <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
 </urlset>
