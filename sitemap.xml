@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dodcott.org/</loc>
-  <lastmod>2023-09-18T13:39:00Z</lastmod>
+  <lastmod>2023-09-20T12:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2014/</loc>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2023-09-18T13:39:00Z</lastmod>
+  <lastmod>2023-09-20T13:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -127,7 +127,11 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-6.html</loc>
-  <lastmod>2023-09-18T13:39:00Z</lastmod>
+  <lastmod>2023-09-20T12:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index-7.html</loc>
+  <lastmod>2023-09-20T13:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/about/</loc>
@@ -422,10 +426,6 @@
   <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
-  <loc>http://dodcott.org/posts/2023-03-01-meeting/</loc>
-  <lastmod>2023-09-18T13:39:00Z</lastmod>
- </url>
- <url>
   <loc>http://dodcott.org/posts/2023-03-11-meeting/</loc>
   <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
@@ -438,11 +438,35 @@
   <lastmod>2023-09-18T13:39:00Z</lastmod>
  </url>
  <url>
+  <loc>http://dodcott.org/posts/2023-09-01-safer-roads/</loc>
+  <lastmod>2023-09-19T15:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-09-02-safer-roads/</loc>
+  <lastmod>2023-09-20T13:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-09-05-parish-council-meeting/</loc>
+  <lastmod>2023-09-19T15:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-09-05-safer-roads/</loc>
+  <lastmod>2023-09-19T15:50:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://dodcott.org/posts/2023-09-16-safer-roads/</loc>
   <lastmod>2023-09-18T21:12:00Z</lastmod>
  </url>
  <url>
-  <loc>http://dodcott.org/posts/2023-09-16-test/</loc>
-  <lastmod>2023-09-18T13:50:00Z</lastmod>
+  <loc>http://dodcott.org/posts/2023-09-18-safer-roads/</loc>
+  <lastmod>2023-09-19T15:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-09-18-visit-by-mp/</loc>
+  <lastmod>2023-09-20T12:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/mp-visits-the-park-view-business-centre/</loc>
+  <lastmod>2023-09-20T12:37:00Z</lastmod>
  </url>
 </urlset>
