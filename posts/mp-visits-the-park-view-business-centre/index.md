@@ -7,6 +7,6 @@
 .. description:
 .. type: text
 
-Our MP, Joel Hetherington, visited the Park View Business Centre during his visit to discuss the Parish Council's Safer Roads policy. The photograph was taken in the [The Old Piggery Cafe](https://www.parkviewbusinesscentre.co.uk/) which is situated in the business centre.
+Our MP, Joel Hetherington (centre of photo), visited the Park View Business Centre during his visit to discuss the Parish Council's Safer Roads policy. The photograph was taken in the [The Old Piggery Cafe](https://www.parkviewbusinesscentre.co.uk/) which is situated in the business centre.
 
 ![simple image1](/regex_pic/ET_Combermere_Visit_1.jpg)
