@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-[The Piggery Cafe Park View Business Centre](https://www.parkviewbusinesscentre.co.uk/)
+[The Piggery Cafe at Park View Business Centre](https://www.parkviewbusinesscentre.co.uk/)
 
 Our MP, Joel Hetherington, visited the Park View Business Centre during his visit to discuss the Parish Council's Safer Roads policy. The photograph was taken in the [The Old Piggery Cafe](https://www.parkviewbusinesscentre.co.uk/) which is situated in the business centre.
 
