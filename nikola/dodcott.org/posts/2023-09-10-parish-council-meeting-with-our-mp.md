@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Our MP attended a meeting outside Combermere Abbey close to the scene of a recent fatal accident. Clive explained to Joel about our compaign to make local roads safer by concentrating on xxx areas.
+Our MP attended a meeting outside Combermere Abbey close to the scene of a recent fatal accident. Clive explained to Edard Timpson about our compaign to make local roads safer by concentrating on xxx areas.
 
 Photograph taken at 31st August 2023 on the A525 outside Combermere Abbey near to the site of the recent accident.
 
