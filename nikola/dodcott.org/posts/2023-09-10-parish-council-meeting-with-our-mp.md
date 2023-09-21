@@ -15,6 +15,6 @@ Photograph taken at 31st August 2023 on the A525 outside Combermere Abbey near t
 
 ![simple image1](/regex_pic/parish_council_IMG_0421.jpeg)
 
-Parish Councillors Clive Pownall and Ian Barton. Cheshire East Councillor Rachel Bailey and our MP Joel Hetherington
+Parish Councillors Clive Pownall and Ian Barton. Cheshire East Councillor Rachel Bailey and our MP Edward Timpson
 
-Joel also visited the Piggery Cafe and other businesses at Park View Business Centre.
+  * [ ] Edward also visited the Piggery Cafe and other businesses at Park View Business Centre.
