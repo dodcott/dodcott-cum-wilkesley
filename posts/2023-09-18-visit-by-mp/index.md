@@ -1,5 +1,5 @@
 <!--
-.. title: Safer Roads - Visit by Joel Hetherington MP.
+.. title: Safer Roads - Visit by Edward Timpson MP.
 .. slug: 2023-09-18-visit-by-mp
 .. date: 2023-09-18 02:49:30 UTC
 .. tags: parishcouncil
